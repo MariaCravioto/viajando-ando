@@ -1,8 +1,6 @@
 # VIAJANDO ANDO
 
-### DESCRIPCIÓN GENERAL
-
-![imagen](img/1.png)
+![imagen](https://image.ibb.co/nDmQ2d/1.png)
 
 ## ELABORADO PARA [LABORATORIA](http://www.laboratoria.la/)
 
